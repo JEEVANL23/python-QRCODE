@@ -18,18 +18,27 @@ Step 2: Go to the directory where you have downloaded and run the program.
 
 # to run program in linux.
  cd /directory/
+ 
  $ python3 qrcode.py
-         or
+    
+      or
+      
  $ python qrcode.py
  
 # to run program in windows.
+ 
  cd /directory/
+ 
  $ python qrcode.py
  
 # to run program in mac.
+ 
  cd /directory/
+ 
  $ python qrcode.py
-        or
+    
+      or
+ 
  $ python3 qrcode.py    
 
 After running the program it will be blank it means that it is waiting for user to enter the input.
